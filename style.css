@@ -40,7 +40,7 @@
 .nav-s {
     display: flex;
     height: 20px;
-    width: 620px;
+    width: 100%;
     padding: 1rem;
 }
 
@@ -73,8 +73,10 @@
     color: black;
     /* width: 30px; */
     /* align-items: flex-end;
+    
 */
     margin-bottom: 25px;
+
 }
 
 .box-box {
@@ -124,7 +126,8 @@
 }
 
 .button {
-    background-color: yellow;
+    background-color: rgb(255, 251, 251);
+    justify-content: center;
 }
 
 .foot-panel1 {
